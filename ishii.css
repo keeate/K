@@ -1,0 +1,103 @@
+@charset "utf-8";
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+@font-face {
+    font-family: 'Cafe24Supermagic-Bold-v1.0';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/Cafe24Supermagic-Bold-v1.0.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+/* ====================================== */
+
+body {
+    background-color: black;
+}
+.wrapper {
+    width: 99vw;
+    height: 98vh;
+    position: relative;
+}
+.wrapper .wrap {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    width: 1152px;
+    height: 720px;
+    background: url(./img/bg.jpg);
+    background-size: cover;
+}
+
+.wrapper .wrap div {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    color: rgba(255, 255, 255, 0);
+    line-height: 5px;
+}
+.wrapper .wrap h1 {
+    font-family: 'Cafe24Supermagic-Bold-v1.0';
+    transform: translate(-50%,-50%);
+    position: absolute;
+    bottom:-30px;
+    left: 50%;
+    color:white;
+    background-color: rgb(66, 66, 66);
+}
+
+/* 조각 */
+.wrapper .wrap div.bt1 {
+    top: 201px;
+    left: 867px;
+}
+/* 묘약 */
+.wrapper .wrap div.bt2 {
+    top: 266px;
+    left: 683px;
+}
+/* 첼로 */
+.wrapper .wrap div.bt3 {
+    top: 447px;
+    left: 611px;
+}
+/* 사진기 */
+.wrapper .wrap div.bt4 {
+    top: 403px;
+    left: 239px;
+}
+/* 몽키스페너 */
+.wrapper .wrap div.bt5 {
+    top: 601px;
+    left: 203px;
+}
+/* 의료기기 버튼 */
+.wrapper .wrap div.bt6 {
+    top: 460px;
+    left: 327px;
+}
+/* 메스 */
+.wrapper .wrap div.bt7 {
+    top: 440px;
+    left: 1090px;
+}
+/* 랜덤 */
+.wrapper .wrap div.bt8 {
+    top: 597px;
+    left: 689px;
+}
+/* 꽝 */
+.wrapper .wrap div.bt9 {
+    top: 100px;
+    left: 104px;
+}
+.wrapper .wrap div.bt10 {
+    top: 296px;
+    left: 460px;
+}
+.wrapper .wrap div.bt11 {
+    top: 365px;
+    left: 311px;
+}
