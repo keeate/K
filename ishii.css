@@ -33,9 +33,9 @@ body {
 
 .wrapper .wrap div {
     position: absolute;
-    width: 5px;
-    height: 5px;
-    color: rgba(255, 255, 255, 0);
+    width: 8px;
+    height: 8px;
+    background-color: rgba(255, 0, 0, 0);
     line-height: 5px;
 }
 .wrapper .wrap h1 {
@@ -50,43 +50,43 @@ body {
 
 /* 조각 */
 .wrapper .wrap div.bt1 {
-    top: 201px;
-    left: 867px;
+    top: 204px;
+    left: 866px;
 }
 /* 묘약 */
 .wrapper .wrap div.bt2 {
-    top: 266px;
+    top: 271px;
     left: 683px;
 }
 /* 첼로 */
 .wrapper .wrap div.bt3 {
-    top: 447px;
+    top: 452px;
     left: 611px;
 }
 /* 사진기 */
 .wrapper .wrap div.bt4 {
-    top: 403px;
+    top: 404px;
     left: 239px;
 }
 /* 몽키스페너 */
 .wrapper .wrap div.bt5 {
-    top: 601px;
+    top: 605px;
     left: 203px;
 }
 /* 의료기기 버튼 */
 .wrapper .wrap div.bt6 {
-    top: 460px;
+    top: 463px;
     left: 327px;
 }
 /* 메스 */
 .wrapper .wrap div.bt7 {
-    top: 440px;
+    top: 444px;
     left: 1090px;
 }
 /* 랜덤 */
 .wrapper .wrap div.bt8 {
-    top: 597px;
-    left: 689px;
+    top: 601px;
+    left: 688px;
 }
 /* 꽝 */
 .wrapper .wrap div.bt9 {
