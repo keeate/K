@@ -33,8 +33,8 @@ body {
 
 .wrapper .wrap div {
     position: absolute;
-    width: 8px;
-    height: 8px;
+    width: 10px;
+    height: 10px;
     background-color: rgba(255, 0, 0, 0);
     line-height: 5px;
 }
@@ -100,4 +100,446 @@ body {
 .wrapper .wrap div.bt11 {
     top: 365px;
     left: 311px;
+}
+.wrapper .wrap div.bt12 {
+    top: 544px;
+    left: 498px;
+}
+.wrapper .wrap div.bt13 {
+    top: 506px;
+    left: 145px;
+}
+.wrapper .wrap div.bt14 {
+    top: 187px;
+    left: 719px;
+}
+.wrapper .wrap div.bt15 {
+    top: 285px;
+    left: 746px;
+}
+
+
+#modalBody {
+    width: 400px;
+    height: 400px;
+    padding: 30px 30px;
+    margin: 0 auto;
+    border: 0x solid #777;
+    background-color: #000000a1;
+  }
+
+  
+  /* ---------------------------------- */
+  #popupBtn1 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap1 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn1 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn2 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap2 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn2 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn3 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap3 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn3 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn4 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap4 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn4 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn5 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap5 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn5 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn6 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap6 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn6 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn7 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap7 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn7 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn8 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap8 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn8 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn9 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap9 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn9 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn10 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap10 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn10 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+
+/* ------- */
+
+#popupBtn11 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap11 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn11 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+/* ------- */
+
+#popupBtn12 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap12 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn12 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+/* ------- */
+
+#popupBtn13 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap13 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn13 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+/* ------- */
+
+#popupBtn14 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap14 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn14 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
+}
+/* ------- */
+
+#popupBtn15 {
+    width: 10px;
+    height: 10px;
+    background-color:rgba(0,0,0,0);
+    border:0px solid black
+}
+
+#modalWrap15 {
+    display: none;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#closeBtn15 {
+    float:right;
+    font-weight: bold;
+    color: #ffffff;
+    font-size:25px;
 }
