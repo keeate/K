@@ -35,10 +35,10 @@ const modal3 = document.getElementById('modalWrap3');
 const closeBtn3 = document.getElementById('closeBtn3');
 
 btn3.onclick = function() {
-  modal2.style.display = 'block';
+  modal3.style.display = 'block';
 }
 closeBtn3.onclick = function() {
-  modal2.style.display = 'none';
+  modal3.style.display = 'none';
 }
 
 window.onclick = function(event) {
@@ -51,10 +51,10 @@ const modal4 = document.getElementById('modalWrap4');
 const closeBtn4 = document.getElementById('closeBtn4');
 
 btn4.onclick = function() {
-  modal2.style.display = 'block';
+  modal4.style.display = 'block';
 }
 closeBtn4.onclick = function() {
-  modal2.style.display = 'none';
+  modal4.style.display = 'none';
 }
 
 window.onclick = function(event) {
@@ -67,10 +67,10 @@ const modal5 = document.getElementById('modalWrap5');
 const closeBtn5 = document.getElementById('closeBtn5');
 
 btn5.onclick = function() {
-  modal2.style.display = 'block';
+  modal5.style.display = 'block';
 }
 closeBtn5.onclick = function() {
-  modal2.style.display = 'none';
+  modal5.style.display = 'none';
 }
 
 window.onclick = function(event) {
